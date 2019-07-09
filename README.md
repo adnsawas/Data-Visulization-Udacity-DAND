@@ -9,8 +9,14 @@ The dataset is a collection of flights data from 2005 till 2008. Data is origina
 
 ## Summary of Findings
 
-- 
-
+- Only years (2005 - 2009) were included in the analysis.
+- There are 23 unique carriers.
+- About 1.93% of flights were cancelled.
+- Tha major reason of flights cancellation is because of the carrier then weather. These two reasons contribute to about 80% of cancelled flights.
+- Year 2006 was the best year in terms of flight cancellation rate (1.7%)
+- Most carriers tend to operate flights that are less than 1000 miles while only 5 carriers do operate very long flights (> 3500 miles).
+- The most frequent flight route is between SAN and LAX. More than 26.9 K flights per year (that's about 73 flights per day!).
+  - Flights with low delay tend to have more propbability of higher AirTime.
 
 ## Key Insights for Presentation
 
